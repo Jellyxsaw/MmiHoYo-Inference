@@ -1,7 +1,8 @@
-
+---
 
 🚀 **MiHoYo-Inference** 是一個基於 **VITS** 模型的 **文本到語音（TTS）** 推理專案，旨在合成「米哈游」遊戲角色的語音！🎮🔊
 非我本人開發 我只稍微修改了一點前端介面 
+
 原開發者:https://www.bilibili.com/video/BV1D7421R7Rn/?spm_id_from=333.337.search-card.all.click&vd_source=b3083797db67cf642597cac1c809cbc0
 本專案不提供模型 只提供前端介面 模型請自行訓練或下載
 ---

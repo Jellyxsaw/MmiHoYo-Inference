@@ -1,3 +1,32 @@
+
+
+🚀 **MiHoYo-Inference** 是一個基於 **VITS** 模型的 **文本到語音（TTS）** 推理專案，旨在合成「米哈游」遊戲角色的語音！🎮🔊
+非我本人開發 我只稍微修改了一點前端介面 
+原開發者:https://www.bilibili.com/video/BV1D7421R7Rn/?spm_id_from=333.337.search-card.all.click&vd_source=b3083797db67cf642597cac1c809cbc0
+本專案不提供模型 只提供前端介面 模型請自行訓練或下載
+---
+
+## 🚀 使用方法
+
+### 1️⃣ 運行推理腳本  
+打開 !启动!.bat
+
+### 2️⃣ 調整語音參數  
+可以自行調整
+
+---
+
+## 📚 參考資料
+
+📌 **VITS 模型論文**：[VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech](https://github.com/oaeen/mihoyo-vits)
+
+---
+以下為GSVI原始MD 附上
+
+
+
+
+
 # GSVI : GPT-SoVITS Inference Plugin
 
 Welcome to GSVI, an inference-specialized plugin built on top of GPT-SoVITS to enhance your text-to-speech (TTS) experience with a user-friendly API interface. This plugin enriches the [original GPT-SoVITS project](https://github.com/RVC-Boss/GPT-SoVITS), making voice synthesis more accessible and versatile.

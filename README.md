@@ -5,6 +5,10 @@
 
 原開發者:https://www.bilibili.com/video/BV1D7421R7Rn/?spm_id_from=333.337.search-card.all.click&vd_source=b3083797db67cf642597cac1c809cbc0
 
+崩铁&原神数据集来源：@红血球AE3803
+崩三数据集来源：@YSJS有所建树
+模型为GPT-SoVITS模型，项目地址：https://github.com/RVC-Boss/GPT-SoVITS
+教程：https://www.yuque.com/baicaigongchang1145haoyuangong/ib3g1e
 
 本專案不提供模型 只提供前端介面 模型請自行訓練或下載
 ---
